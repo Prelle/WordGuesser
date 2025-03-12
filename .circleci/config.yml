@@ -8,6 +8,6 @@ jobs:
       - run: echo "Hello, World!"
 
 workflows:
-  hellow-world-workflow:
+  hello-world-workflow:
     jobs:
       - hello-world-job
